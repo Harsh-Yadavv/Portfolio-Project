@@ -1,0 +1,109 @@
+.nametag{
+    text-align: center;
+    padding: 20px;
+    font-family: sans-serif;
+    margin: 0px;
+    height: 60px;
+}
+.Second{
+    text-align: center;
+    margin: 0px;
+}
+.container{
+    background-color: rgb(190, 189, 189);
+    border-radius: 50px;
+    display: flexbox;
+    width: 500px;
+}
+.nav-link{
+    color: black;
+}
+.iop{
+    margin-left:100px;
+}
+.foot{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.about{
+    background-color: rgb(239, 239, 239);
+    border-radius: 10px;
+    width: auto;
+}
+.about1{
+    margin-left: 40px;
+    
+}
+.images{
+    display: flexbox;
+    justify-content: space-around;
+    padding: 20px;
+    height: auto;
+    width: auto;
+    border: 10px solid black;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.jkl{
+    margin-left: 5%;
+    
+}
+.i1{
+    margin: 10px 10px 10px 10px;
+    border-radius: 5px;
+    filter: drop-shadow(0 -6mm 4mm rgb(148, 108, 160));
+}
+.i2{
+    margin: 10px 10px 10px 10px;
+    border-radius: 5px;
+    filter: drop-shadow(0 -6mm 4mm rgb(148, 108, 160));
+}
+.i3{
+    margin: 10px 10px 10px 10px;
+    border-radius: 5px;
+    filter: drop-shadow(0 -6mm 4mm rgb(148, 108, 160));
+}
+.i4{
+    margin: 10px 10px 10px 10px;
+    border-radius: 5px;
+    filter: drop-shadow(0 -6mm 4mm rgb(148, 108, 160));
+}
+.i5{
+    margin: 10px 10px 10p;
+    border-radius: 5px;
+    filter: drop-shadow(0 -6mm 4mm rgb(148, 108, 160));
+}
+.i6{
+    margin: 10px 10px 10px 10px;
+    border-radius: 5px;
+    filter: drop-shadow(0 -6mm 4mm rgb(148, 108, 160));
+}
+.i7{
+    margin: 10px 10px 10px 10px;
+    border-radius: 5px;
+    filter: drop-shadow(0 -6mm 4mm rgb(148, 108, 160));
+}
+.i8{
+    margin: 10px 10px 10px 10px;
+    border-radius: 5px;
+    filter: drop-shadow(0 -6mm 4mm rgb(148, 108, 160));
+    
+}
+.i9{
+    margin: 10px 10px 10px 10px;
+    border-radius: 5px;
+    filter: drop-shadow(0 -6mm 4mm rgb(148, 108, 160));
+    
+}
+
+.foot{
+    padding: 80px;
+}
+.bottom{
+    padding: 40px;
+}
+h3{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
